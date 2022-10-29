@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm M Saddam Hussain</h1>
 <h3 align="center">A passionate Site Reliability Engineer from India</h3>
+<img align="right" alt"DevOps" width="400" src="https://miro.medium.com/max/1400/1*mqv03KrlG5LK2XU1uV4LJg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msaddamhussain07&label=Profile%20views&color=0e75b6&style=flat" alt="msaddamhussain07" /> </p>
 
